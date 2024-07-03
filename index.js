@@ -36,4 +36,6 @@ function switchOnCharmFromTip(tip){
   }
 }
 
-ternaryCheckCity(NYC)
+scuberGreetingForFeet()
+ternaryCheckCity()
+switchOnCharmFromTip()
